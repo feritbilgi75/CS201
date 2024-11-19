@@ -1,0 +1,25 @@
+Course no is set to 100
+
+Grades are set
+
+Average grade is 72.9
+
+Number of students who received each letter grade:
+A: 2
+B: 3
+C: 2
+D: 1
+F: 2
+
+Grade 110 is not valid
+All grades are reset back to 0
+
+Average grade is 0
+
+Number of students who received each letter grade:
+A: 0
+B: 0
+C: 0
+D: 0
+F: 10
+

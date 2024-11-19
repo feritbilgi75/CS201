@@ -1,0 +1,18 @@
+Course no is set to 100
+
+50 is an invalid course no
+Course no is set to 100
+
+Course no is set to 201
+
+Welcome to the grade book for CS 201!
+
+Average grade is 0
+
+Number of students who received each letter grade:
+A: 0
+B: 0
+C: 0
+D: 0
+F: 10
+

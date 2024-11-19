@@ -1,0 +1,7 @@
+Course no is set to 100
+Course no is set to 202
+
+Welcome to the grade book for CS 101!
+
+Welcome to the grade book for CS 202!
+
